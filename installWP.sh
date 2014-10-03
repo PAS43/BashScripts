@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Orginally made by (PAS43) Paul Spedding 03/10/2014
 if [ -d "/aber/$1/public_html/wordpress" ]; then
         rm -R /aber/$1/public_html/wordpress
 fi
